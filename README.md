@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=909054rutu&label=Profile%20views&color=0e75b6&style=flat" alt="909054rutu" /> </p>
 
-- 🌱 I’m currently learning **Data structure programming language**
+- 🌱 I’m currently **second year BBA(CA) student**
 
 - 📫 How to reach me **rutujashelke370@gmail.com**
 
