@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=909054rutu" alt="909054rutu" /></a> </p>
 
-- 🌱 I’m currently learning **Data structure programming language**
+- 🌱 I’m currently learning **S.Y BBA(C.A)**
 
 - 📫 How to reach me **rutujashelke370@gmail.com**
 
