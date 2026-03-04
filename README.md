@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=909054rutu" alt="909054rutu" /></a> </p>
 <img align="right" alt="Coding" width="400" src=https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306545.jpg?size=626&ext=jpg>
-- 🌱 I’m currently learning **TY BBA(CA)**
+- 🌱 I’m persuing MCA
 
-- 📫 How to reach me **rutujashelke370@gmail.com**
+- 📫 How to reach me rutujashelke370@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
